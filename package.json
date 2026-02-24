@@ -1,0 +1,17 @@
+{
+  "name": "xd-to-code",
+  "version": "1.0.0",
+  "description": "Convert Adobe XD files to Vite + Vue + Tailwind CSS projects",
+  "type": "module",
+  "bin": {
+    "xd-to-code": "./bin/xd-to-code.js"
+  },
+  "scripts": {
+    "start": "node bin/xd-to-code.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0"
+  }
+}
