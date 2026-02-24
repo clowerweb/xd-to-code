@@ -22,7 +22,7 @@ The tool runs a deterministic conversion pipeline to extract layouts, text, imag
 ## Install
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:clowerweb/xd-to-code.git
 cd xd-to-code
 npm install
 ```
